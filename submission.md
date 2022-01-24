@@ -37,10 +37,10 @@ In this assignment, fake answers have been provided. You should replace the prov
 
 #### Section Two
 1. What is your primary reason for taking COMP122?
-   > I'm forced to take it, because it is required!                           <!-- response -->
+   > Obviously since I am a compsci major I'm sort of forced to take this class, but in all honesty, Computer Science interests me more than any other major, and this one assignment has made me feel more like a software engineer than anything in Comp 110. Installing git, messing with all the settings, setting up ssh and pushing my first commit was incredibly satisfying and I cannot wait for more. Also, I know about computers, but I wanted to know more about how they work, and I was always interested in machine code and computer architecture. All in all, I feel as though this class will teach me plenty of things I actually want to learn, and it has been a long time since I've been this excited for a class.                           <!-- response -->
 
 1. What is the most important thing you want to get out of COMP122?
-   > An enjoyable time during class; make me laugh!                           <!-- response -->
+   > Valuable skills that I will need for the rest of my career as a software developer. Comp 110 was fun, and made me love Java and OOP in general, but it taught me nothing about file directories, machine code, or how to apply what we learned in real world scenarios. I want the experience most of all.                           <!-- response -->
 
 1. What is your criteria for success for COMP122?
    > I will consider this class to be a success if and only if I           <!-- response -->
