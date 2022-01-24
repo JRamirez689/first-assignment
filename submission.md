@@ -43,16 +43,16 @@ In this assignment, fake answers have been provided. You should replace the prov
    > Valuable skills that I will need for the rest of my career as a software developer. Comp 110 was fun, and made me love Java and OOP in general, but it taught me nothing about file directories, machine code, or how to apply what we learned in real world scenarios. I want the experience most of all.                           <!-- response -->
 
 1. What is your criteria for success for COMP122?
-   > I will consider this class to be a success if and only if I           <!-- response -->
-   > am able to improve my Java coding skills. I want to be an              <!-- response -->
-   > Application Developer and there is no need for me to waste             <!-- response -->
-   > my time to learn anything else.                                        <!-- response -->
-   > else.                                                                  <!-- response -->
+   > Success is really hard to measure when it comes to coding.           <!-- response -->
+   > At first, I thought creating really neat and working code was all I needed to do, but its far more complicated than that.             <!-- response -->
+   > Personally, I want to measure my success with the amount of experience I gather, and the relationships I form.            <!-- response -->
+   > Also, I want to ask more questions, and want to communicate with my professors outside of just class hours.              <!-- response -->
+   > Also also, good grades are pretty important, I guess.                                                               <!-- response -->
    >                                                                        <!-- response -->
    <!-- The above is an example of a multi-line response. -->
    <!-- Feel free to add or remove additional response lines as needed. -->
 
 1. What one thing can I do to help ensure you are successful in this class?
-   * Pizza, and plenty of it!                                               <!-- response -->
+   * From just this assignment, NOTHING! You provided us with so much information and clear criteria that this assignment was a blast to complete. I loved every bit of it. If anything, I really appreciate when a professor can give me honest advice, rather than trying to be friendly to avoid hurting my feelings, so be as mean as you can!                <!-- response -->
 
 
