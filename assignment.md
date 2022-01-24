@@ -10,8 +10,8 @@ You should review what this page looks like as a web document to ensure appropri
 In this assignment, fake answers have been provided. You should replace the provided answers with your own. 
 
 ---
-#### Name: john smith                                                         <!-- response -->
-#### GitHub Account: cool-coder                                               <!-- response -->
+#### Name: Jesus Ramirez                                                         <!-- response -->
+#### GitHub Account: test                                            <!-- response -->
 #### Due: one day late                                                        <!-- response -->
 
 ---
